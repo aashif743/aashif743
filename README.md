@@ -1,6 +1,6 @@
-# Mohamed Aashif - Software Engineering Intern
+# Mohamed Aashif - Software Engineer
 
-👋 Hello! I'm Mohamed Aashif, a software engineering intern passionate about building innovative solutions.
+👋 Hello! I'm Mohamed Aashif, a software engineer passionate about building innovative solutions.
 
 ## Skills
 
