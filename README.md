@@ -11,7 +11,7 @@
 
 ## Education
 
-- [SLIIT University]: Bachelor of Science in Information Technology, Expected Graduation: 2025
+- SLIIT University: Bachelor of Science in Information Technology, Expected Graduation: 2025
 
 ## Let's Connect!
 
